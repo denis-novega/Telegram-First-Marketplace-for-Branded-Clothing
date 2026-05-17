@@ -1,0 +1,12 @@
+/* globals.css */
+:root {
+  --tg-bg: #0b0b0c;
+  --tg-text: #ffffff;
+  --tg-hint: #a1a1aa;
+  --tg-link: #7dd3fc;
+  --tg-btn: #18181b;
+  --tg-btn-text: #fafafa;
+  --tg-bg-2: #111113;
+}
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
