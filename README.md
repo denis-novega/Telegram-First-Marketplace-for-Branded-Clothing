@@ -111,12 +111,3 @@ pnpm dev
 
 Open the app at `http://localhost:3000`.
 
-## Security notes
-
-This repository intentionally does not include production secrets or production database contents. Before deploying your own instance, configure fresh Telegram bot credentials, Supabase keys, CDEK credentials, webhook secrets, and session/nonce settings.
-
-If this code was ever pushed or shared with real `.env` files, rotate the affected credentials before publishing it publicly.
-
-## Status
-
-The original product is in an advertising/testing phase and has user and campaign data outside this repository. Those analytics and private operational datasets are not included in this public snapshot.
